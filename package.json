@@ -1,0 +1,10 @@
+{
+  "name": "simple-dapp-connect-astrone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.1.2",
+    "static-server": "^2.2.1"
+  }
+}
