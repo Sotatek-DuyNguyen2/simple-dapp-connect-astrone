@@ -1,10 +1,12 @@
 {
-  "name": "simple-dapp-connect-astrone",
+  "name": "dapp-example-to-connect-astrone",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "serve": "static-server . --port 9011"
+  },
   "dependencies": {
-    "serve": "^14.1.2",
     "static-server": "^2.2.1"
   }
 }
